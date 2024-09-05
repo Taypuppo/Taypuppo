@@ -27,3 +27,4 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Taypuppo&layout=compact&hide_border=true&theme=dracula" alt="Profile statistics" height="180em"><a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taypuppo&layout=compact&hide_border=true&theme=dracula" alt="Profile statistics" height="180em"></a>
 </div>
+
